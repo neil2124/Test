@@ -1,3 +1,5 @@
-const printCurses() => {
+const printCurses = () => {
   console.log("Lavde!");
 }
+
+printCurses();
